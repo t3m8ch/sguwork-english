@@ -26,3 +26,8 @@
 + *three-story* -- трёхэтажный
 + *taste* -- вкус
 + *made up their minds* -- приняли решение
++ *gentleman* -- джентльмен
++ *left ... alone* -- оставил ... в покое
++ *weak* -- слабый
++ *lay* -- лежать
++ *pane* -- стекло
