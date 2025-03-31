@@ -23,3 +23,6 @@
   *wasn't*
 + *celebrate* -- праздновать
 + *family wedding* -- свадьба родственников
++ *three-story* -- трёхэтажный
++ *taste* -- вкус
++ *made up their minds* -- приняли решение
