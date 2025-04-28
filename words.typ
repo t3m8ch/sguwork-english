@@ -41,3 +41,26 @@
 + *put in* -- вставить слово
 + *influence something* -- влиять на что-то (без предлога)
 + *sacrifies* -- жертвовать/жертва (?)
++ *suntan lotion* -- солнцезащитный крем
++ *sunglasses* -- солнцезащитные очки
++ *backpack* -- рюкзак
++ *foreign currency* -- иностранная валюта
++ *guidebook* -- путеводитель
++ *map* -- карта
++ *passport* -- паспорт
++ *suitcase* -- чемодан
++ *arrive* -- прибывать (например, на остановку)
++ *check out* -- выселяться (например, из отеля)
++ *I'm off* -- я пошёл
++ *land* -- приземлиться
++ *hitchhike* -- путешествовать автостопом
++ *board* -- борт
++ *motorway* -- трасса
++ *traffic* -- транспорт
++ *traffic jam* -- пробки
++ *There was _something wrong with_ the plane* -- В самолёте произошла какая-то неполадка
++ *set off* -- отправиться
++ *fell off* -- упал
++ *coat* -- пальто
++ *charity* -- благотворительность
++ *generosity* -- щедрость
