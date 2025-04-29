@@ -1,12 +1,32 @@
-= Present simple
-
-= Past simple
-
 = Present continuous
 
-= Past perfekt
+Действие происходит прямо сейчас, в настоящее время. Образуется при помощи вспомогательного
+глагола *to be* + глагола в -ing форме.
+
+*Примеры*:
++ "I am speaking"
++ "She is reading a book"
++ "They are playing football"
+
+= Past perfect
+
+Действие было завершено до определённого момента в прошлом. Используется, чтобы показать,
+что действие в прошлом было завершено до какого-либо другого действия в прошлом.
+
+*Примеры*:
++ "I had finished my homework before going to bed"
++ "She had been studying for two hours before the exam"
++ "They had been living here for five years before moving"
 
 = Present perfect
+
+Действие завершилось к настоящему времени или имеют связь с настоящим. Образуется при помощи
+вспомогательного глагола *to have* + глагол в V3.
+
+*Примеры*:
++ "I have finished my homework"
++ "She has been studying for two hours"
++ "They have been living here for five years"
 
 = Past continuous
 
@@ -22,4 +42,4 @@
 Past simple и Past continuous могут употребляться в одном предложении. Иногда они взаимозаменяемы в
 зависимости от того, что мы хотим сказать.
 
-// Образование: were/weren't/was/wasn't + глагол в -ing форме
+Образование: were/weren't/was/wasn't + глагол в -ing форме
