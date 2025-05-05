@@ -23,7 +23,7 @@ of natural aptitude for learning languages?
 11. Have you children already read this text? -- Yes, they read it at the last lesson.
 12. There is nobody here now. All the students have gone home.
 13. It's dark in the street now. The sun has already set.
-14. When your heard the news? -- I heard them last Saturday.
+14. When did you hear the news? -- I heard it last Saturday.
 15. What are you doing now? -- I am writing a letter to my friend.
     -- When did you receive his letter? -- I received it today.
 16. Has your son already done his lessons? -- Yes, he has just finished doing them
