@@ -37,11 +37,14 @@
 
 == c
 
+_already употребляется только в утвердительных предложениях или в вопросительных, но где говорится
+\"ты уже это сделал?\"_
+
 1. He hasn't done the shopping yet.
 2. He hasn't paid back Mark yet.
 3. He's already bought paper for the printer.
 4. He's already checked his emails.
-5. He hasn't asked Dad for some money yet.
+5. He hasn't asked Dad for any money yet.
 6. He's already written to Daniel.
 7. He's already finished writing his project.
 8. He hasn't cleaned his flat yet.

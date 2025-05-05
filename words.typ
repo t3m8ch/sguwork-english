@@ -95,3 +95,7 @@
 + *developing countries* -- развивающиеся страны
 + *flat* -- квартира
 + *rubbish* -- мусор
++ *life-changing experience* -- переломный момент в жизни
++ *However* -- однако
++ *orphanage* -- детский дом
++ *statement* -- утверждение
