@@ -99,3 +99,7 @@
 + *However* -- однако
 + *orphanage* -- детский дом
 + *statement* -- утверждение
++ *save up* -- накопить
++ *afford* -- позволить себе
++ *discount* -- скидка
++ *market* -- рынок
