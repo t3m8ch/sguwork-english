@@ -103,3 +103,6 @@
 + *afford* -- позволить себе
 + *discount* -- скидка
 + *market* -- рынок
++ *lander* -- кредитор
++ *On seconds thoughts* -- хотя, если подумать
++ *something else* -- что-то ещё

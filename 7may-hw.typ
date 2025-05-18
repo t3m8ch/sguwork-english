@@ -22,4 +22,4 @@
 
 + _Does anyone owe you money at the moment? Who? When do you think they\'ll pay you back?_
 
-  I don't owe money at the moment.
+  No one owes me money at the moment.
