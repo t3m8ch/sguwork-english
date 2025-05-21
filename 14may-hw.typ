@@ -4,13 +4,13 @@
 
 A: Good morning. Can I help you?
 B: Er, yes. I'm looking for a present for my wife.
-A: OK. Er, let me see... what about these necklace?
-B: Yes, I suppose she might like them. On second thoughts, maybe I should get something else.
 A: Are you looking for anything in particular?
 B: Well, she loves earrings.
 A: Really? How about these earrings? They're really beautiful. A perfect present ...
 B: Do you have anything cheaper?
 A: Well, these earrings here are cheaper. They're only £50 with the discount.
+B: Yes, I suppose she might like them. On second thoughts, maybe I should get something else.
+A: OK. Er, let me see... what about these necklace?
 B: Yes, it's lovely. OK, I'll take it.
 
 == c
@@ -27,10 +27,10 @@ B: Yes, it's lovely. OK, I'll take it.
 == d
 
 1. I'm looking for a jacket.
-2. I think I'm a 14 size.
+2. I think I'm a size 14.
 3. Do you have the same one in blue?
 4. Can you tell me how much it is?
-5. That's a bit expensive too.
+5. That's a bit too expensive.
 6. Do you have a cheaper one?
 
 = 2. Pronuciation
