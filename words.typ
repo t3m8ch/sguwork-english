@@ -115,3 +115,36 @@
 + *one day* -- однажды
 + *rest* -- остальное
 + *shoes* -- туфли
++ *joy* -- счастье
++ *departure lounge* -- зал ожидания (вылета) -- /dɪ'pɑːtʃə laʊndʒ/
++ *arrive* -- прибыть
++ *mood* -- настроение, атмосфера
++ *opportunity* -- возможность
++ *winding* -- извилистый
++ *together* -- вместе
++ *according* -- согласно (например, according to research -- согласно исследованиям)
++ *exactly* -- именно
++ *And last but not least* -- последнее по порядку, но не по значению
++ *believe* -- верить, считать
++ *customer* -- клиент
++ *opportunity* -- возможность
++ *sky-high* -- до небес, заоблачная
++ *high street* -- главная улица, центральная улица
++ *remember* -- вспомнить
++ *straight* -- прямо -- /streɪt/
++ *clever* -- хитрый
++ *attitude* -- отношение, позиция
++ *clearly* -- чётко, явно, однозначно
++ *guess* -- угадать
++ *even* -- даже
++ *decide* -- решить, принять решение
++ *below* -- ниже
++ *traveller* -- путешественник
++ *in advance* -- заранее
++ *it's difficult to say* -- сложно сказать
++ *similar* -- такой же
++ *has its own* -- имеет свой
++ *pros* -- плюсы -- /prəʊz/
++ *cons* -- минусы -- /kɒnz/
++ *careful* -- осторожный
++ *sometimes* -- иногда
