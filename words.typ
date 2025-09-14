@@ -148,3 +148,16 @@
 + *cons* -- минусы -- /kɒnz/
 + *careful* -- осторожный
 + *sometimes* -- иногда
++ *stand* -- означать
++ *rainforest* -- тропический лес, джунгли
++ *digital age* -- цифровая эпоха
++ *hut* -- хижина
++ *satellite* -- спутник
++ *tribe* -- племя
++ *village* -- деревня
++ *quickly* -- быстро
++ *reach* -- добраться
++ *conservation* -- сохранение
++ *equipment* -- оборудование -- /ɪ'kwɪpmənt/
++ *against* -- против
++ *able* -- способный, умелый, смог

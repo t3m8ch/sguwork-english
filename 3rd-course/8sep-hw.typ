@@ -55,3 +55,18 @@
 - *Are you a careful shopper?*
 
   Often I'm a careful shopper, but I sometimes do impulse buying.
+
+= A2 Unit 10
+
+== 1. Vocabulary, b
+
++ canoe --- r
++ digital age --- t
++ online --- t
++ hut --- r
++ satellite --- t
++ selfie --- t
++ tribe --- r
++ village --- r
+
+== 2. Reading, b
