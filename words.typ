@@ -168,3 +168,8 @@
 + *redecorate* -- ремонт
 + *letter* -- письмо
 + *factory* -- завод, фабрика
++ *apologise* -- извиняться
++ *collegue* --
++ ** -- колледж
++ *upset* -- расстроена
++ *give a hug* -- обнять

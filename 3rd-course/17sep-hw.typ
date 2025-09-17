@@ -43,7 +43,7 @@
 4. RIGHT
 5. WRONG. What time did you finish your work?
 6. RIGHT
-7. WRONG. grandmother died in 1989.
+7. WRONG. grandmother died in 1989 (в английском года читаются, как девятнадцать восемьдесят девять).
 8. WRONG. did you be
 
 == 3
@@ -61,15 +61,15 @@
 
 + A: Have you had a good time? \
   B: Yes, it's been great!
-+ A: Where's Alan? Have you seen him?
-  B: Yes, he's gone out a few minutes ago.
-  A: And Julia?
++ A: Where's Alan? Have you seen him? \
+  B: Yes, he's gone out a few minutes ago. \
+  A: And Julia? \
   B: I don't know. I haven't seen her.
 + Rose works in a factory. She has worked for six months.
   Before that she was a waitress in a restaurant.
   She has worked there for two years but she hasn't enjoyed
   it very much.
-+ A: Do you know Martin's sister?
++ A: Do you know Martin's sister? \
   B: I have seen her a few times but I have never spoken
-  to her. Have you ever spoken to her?
+  to her. Have you ever spoken to her? \
   A: Yes. I met her at a party last week. She's very nice.
