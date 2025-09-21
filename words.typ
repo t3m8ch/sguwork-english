@@ -169,7 +169,13 @@
 + *letter* -- письмо
 + *factory* -- завод, фабрика
 + *apologise* -- извиняться
-+ *collegue* --
-+ ** -- колледж
++ *collegue* -- коллега -- /ˈkɒliːɡ/
++ *college* -- колледж -- /ˈkɒliːɡ/
 + *upset* -- расстроена
 + *give a hug* -- обнять
++ *just about* -- почти
++ *just in time* -- как раз вовремя
++ *just over* -- чуть больше
++ *just under* -- чуть меньше
++ *just like* -- точно так же, как
++ *in the sale* -- в распродаже, по скидке
