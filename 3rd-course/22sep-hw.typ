@@ -30,7 +30,7 @@
 == 1 Grammar
 
 2. Have you ever given money to charity?
-3. I went to China on business last year.
+3. I was to China on business last year.
 4. I have just bought a new mobile phone.
 5. I haven't bought a birthday present for my brother yet.
 6. I have already spent 200 pounds this weekend.
@@ -43,7 +43,7 @@
 5. Our taxi driver was very friendly, so we gave him a big tip
 6. I bought a new laptop in the sale - it was only 150 pounds!
 7. Have you ever done any volunteer work?
-8. Tony lent to me 50 pounds, but he hasn't paid me back yet.
+8. Tony owes me 50 pounds, but he hasn't paid me back yet.
 
 == 3 Wordpower
 
